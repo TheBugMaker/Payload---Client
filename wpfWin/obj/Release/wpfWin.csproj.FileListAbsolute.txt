@@ -1,0 +1,14 @@
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\bin\Release\wpfWin.dll
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\bin\Release\wpfWin.pdb
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin.csprojResolveAssemblyReference.cache
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\mainwin.baml
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\mainwin.g.cs
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin_MarkupCompile.cache
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin_MarkupCompile.lref
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\Themes\Generic.baml
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin.g.resources
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin.Properties.Resources.resources
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin.csproj.GenerateResource.Cache
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin.dll
+C:\Users\dark\documents\visual studio 2012\Projects\ConsoleApplication4\wpfWin\obj\Release\wpfWin.pdb
